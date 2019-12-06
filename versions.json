@@ -1,0 +1,11 @@
+{
+	"game": {
+		"version": "1.15-pre6"
+	},
+	"loader":{
+		"version": "0.7.2+build.174"
+	},
+	"mmo":{
+		"version": "1.0.0"
+	}
+}
