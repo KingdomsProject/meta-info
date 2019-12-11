@@ -1,5 +1,42 @@
 {
 	"GAME_VERSION" : "1.15",
 	"LOADER_VERSION": "0.7.2+build.174",
-	"MMO_VERSION": "1.0.0"
+	"MMO_VERSION": "1.0.0",
+	"whitelist":[
+		"minecraft",
+		"fabric-networking-blockentity-v0",
+		"fabric-renderer-api-v1",
+		"fabric-keybindings-v0",
+		"fabricloader",
+		"fabric-renderer-indigo",
+		"fabric-containers-v0",
+		"fabric-dimensions-v1",
+		"fabric-biomes-v1",
+		"fabric-events-interaction-v0",
+		"fabric-crash-report-info-v1",
+		"fabric-api-base",
+		"fabric-rendering-v0",
+		"fabric-rendering-data-attachment-v1",
+		"fabric-resource-loader-v0",
+		"fabric-textures-v0",
+		"fabric-content-registries-v0",
+		"fabric-tag-extensions-v0",
+		"fabric-rendering-fluids-v1",
+		"mmocommon",
+		"fabric-registry-sync-v0",
+		"fabric-commands-v0",
+		"fabric-blockrenderlayer-v1",
+		"mmoclient",
+		"fabric-mining-levels-v0",
+		"fabric-renderer-registries-v1",
+		"fabric-loot-tables-v1",
+		"fabric-events-lifecycle-v0",
+		"fabric",
+		"fabric-item-groups-v0",
+		"fabric-particles-v1",
+		"fabric-models-v0",
+		"fabric-object-builders-v0",
+		"fabric-networking-v0"
+
+	]
 }
