@@ -1,7 +1,7 @@
 {
 	"GAME_VERSION" : "1.15.1",
 	"LOADER_VERSION": "0.7.2+build.175",
-	"MMO_VERSION": "1.6.0",
+	"MMO_VERSION": "1.7.0",
 	"whitelist":[
 		"minecraft",
 		"fabric-networking-blockentity-v0",
