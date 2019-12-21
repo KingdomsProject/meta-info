@@ -1,7 +1,7 @@
 {
 	"GAME_VERSION" : "1.15.1",
 	"LOADER_VERSION": "0.7.2+build.175",
-	"MMO_VERSION": "1.7.0",
+	"MMO_VERSION": "1.8.0",
 	"whitelist":[
 		"minecraft",
 		"fabric-networking-blockentity-v0",
@@ -36,7 +36,6 @@
 		"fabric-particles-v1",
 		"fabric-models-v0",
 		"fabric-object-builders-v0",
-		"fabric-networking-v0",
-		"runorama"
-	]
+		"fabric-networking-v0"
+		]
 }
